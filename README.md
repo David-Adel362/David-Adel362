@@ -4,17 +4,16 @@
 </p> 
 
 # Hi, I'm David Adel! 👋
-## Flutter Mobile Developer at Link Development
+## Flutter Mobile Developer
 
 I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.
 
 - 💬 Ask me about anything related to mobile development
-- 👨‍💻 Check out my portfolio at https://abanoub-fakhery.jimdosite.com/ to see some of the projects I've worked on.
 - ⚡ Fun fact: I'm a coffee enthusiast and I love trying out new coffee shops.
  
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/abanoub-fakhry-553a67166/]" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
+<a href="[(https://www.linkedin.com/in/david-adel-b467431b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]" target="_blank"><img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Top Tech Stack
 
