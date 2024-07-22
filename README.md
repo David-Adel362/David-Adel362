@@ -13,7 +13,7 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
  
 ### Connect with Me :
 
-<a href="[**https://www.linkedin.com/in/david-adel-b467431b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**]" target="_blank"><img src="https://img.shields.io/badge/David Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
+<a href="[https://www.linkedin.com/in/david-adel-b467431b8]" target="_blank"><img src="https://img.shields.io/badge/David Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Top Tech Stack
 
