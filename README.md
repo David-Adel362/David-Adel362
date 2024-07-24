@@ -4,7 +4,7 @@
 </p> 
 
 # Hi, I'm David Adel! 👋
-## Flutter Mobile Developer at Link Development
+## Flutter Mobile Developer
 
 I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.
 
@@ -13,7 +13,7 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
  
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/david-adel-b467431b8/]" target="_blank"><img src="https://img.shields.io/badge/David%20Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
+<a href="[https://www.linkedin.com/in/david-adel-b467431b8]" target="_blank"><img src="https://img.shields.io/badge/David%20Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Top Tech Stack
 
