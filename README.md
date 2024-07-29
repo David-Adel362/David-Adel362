@@ -23,7 +23,7 @@
 ### 🛠 &nbsp;Top Tech Stack
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
+  <img alt="Flutter" src="https://flutter.dev/&logo=Flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
