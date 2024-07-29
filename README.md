@@ -21,7 +21,8 @@
 
 ### 🛠 &nbsp;Top Tech Stack
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<p>
+
+  <img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" />
