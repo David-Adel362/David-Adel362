@@ -51,4 +51,4 @@
     <img src="https://komarev.com/ghpvc/?username=David%20Adel&style=for-the-badge">
 </a>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-adel362&show_icons=true&locale=en&layout=compact" alt="david-adel362" /></p>
