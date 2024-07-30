@@ -24,7 +24,7 @@
 
 <p>
   <img alt="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"
-   </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+   <<a href="https://flutter.dev" target="_blank" rel="noreferrer">/a> 
    />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" />
