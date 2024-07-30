@@ -24,25 +24,25 @@
 
 <p>
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"  /></a> 
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" /></a>
-  <img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" /></a>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" /></a>
-  <img alt="Provider" src="https://img.shields.io/badge/-Provider-03A9F4?style=flat-square" /></a>
-  <img alt="Flutter Riverpod" src="https://img.shields.io/badge/-Flutter%20Riverpod-03A9F4?style=flat-square" /></a>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>
-  <img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" /></a>
-  <img alt="State management" src="https://img.shields.io/badge/-State%20management-1D1D1D?style=flat-square" /></a>
-  <img alt="Responsive design" src="https://img.shields.io/badge/-Responsive%20design-795548?style=flat-square" /></a>
-  <img alt="Unit testing" src="https://img.shields.io/badge/-Unit%20testing-9C27B0?style=flat-square" /></a>
-  <img alt="Push notifications" src="https://img.shields.io/badge/-Push%20notifications-607D8B?style=flat-square" /></a>
-  <img alt="Localization" src="https://img.shields.io/badge/-Localization-795548?style=flat-square" /></a>
-  <img alt="In-app purchases" src="https://img.shields.io/badge/-In--app%20purchases-2196F3?style=flat-square" /></a>
-  <img alt="Custom UI design" src="https://img.shields.io/badge/-Custom%20UI%20design-1E88E5?style=flat-square" /></a>
-  <img alt="Animations" src="https://img.shields.io/badge/-Animations-FF9800?style=flat-square" /></a>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square" /></a>
-  <img alt="Clean architecture" src="https://img.shields.io/badge/-Clean%20architecture-212121?style=flat-square" /></a>
-  <img alt="SOLID principles" src="https://img.shields.io/badge/-SOLID%20principles-212121?style=flat-square" /></a>
-  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" /></a>
+  <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" /></a>
+  <a href=""><img alt="RESTful APIs" src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square" /></a>
+  <a href=""><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" /></a>
+  <a href=""><img alt="Provider" src="https://img.shields.io/badge/-Provider-03A9F4?style=flat-square" /></a>
+  <a href=""><img alt="Flutter Riverpod" src="https://img.shields.io/badge/-Flutter%20Riverpod-03A9F4?style=flat-square" /></a>
+  <a href=""><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>
+  <a href=""><img alt="Agile" src="https://img.shields.io/badge/-Agile-546E7A?style=flat-square" /></a>
+  <a href=""><img alt="State management" src="https://img.shields.io/badge/-State%20management-1D1D1D?style=flat-square" /></a>
+  <a href=""><img alt="Responsive design" src="https://img.shields.io/badge/-Responsive%20design-795548?style=flat-square" /></a>
+  <a href=""><img alt="Unit testing" src="https://img.shields.io/badge/-Unit%20testing-9C27B0?style=flat-square" /></a>
+  <a href=""><img alt="Push notifications" src="https://img.shields.io/badge/-Push%20notifications-607D8B?style=flat-square" /></a>
+  <a href=""><img alt="Localization" src="https://img.shields.io/badge/-Localization-795548?style=flat-square" /></a>
+  <a href=""><img alt="In-app purchases" src="https://img.shields.io/badge/-In--app%20purchases-2196F3?style=flat-square" /></a>
+  <a href=""><img alt="Custom UI design" src="https://img.shields.io/badge/-Custom%20UI%20design-1E88E5?style=flat-square" /></a>
+  <a href=""><img alt="Animations" src="https://img.shields.io/badge/-Animations-FF9800?style=flat-square" /></a>
+  <a href=""><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square" /></a>
+  <a href=""><img alt="Clean architecture" src="https://img.shields.io/badge/-Clean%20architecture-212121?style=flat-square" /></a>
+  <a href=""><img alt="SOLID principles" src="https://img.shields.io/badge/-SOLID%20principles-212121?style=flat-square" /></a>
+  <a href=""><img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" /></a>
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidAdelSabet&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
